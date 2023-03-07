@@ -1,0 +1,20 @@
+{
+  "name": "whatsappapi",
+  "version": "19.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ipungzz._",
+  "license": "ISC",
+  "dependencies": {
+    "whatsapp-web.js":"^1.19.4",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^19.7.1",
+    "puppeteer-core": "^19.7.1",
+    "body-parser": "^1.20.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
